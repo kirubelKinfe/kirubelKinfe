@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I'm currently working on an E-learning platform<br>👯 I'm looking to collaborate on MERN Stack Projects<br>🌱 I'm currently learning Mobile Development with React Native<br>💬 Ask me about Fullstack Development<br>⚡Fun fact - I'm always learning new things
+🔭 I'm currently working on an E-learning platform<br>👯 I'm looking to collaborate on MERN Stack Projects<br>🌱 I'm currently learning Mobile Development with React Native<br>💬 Ask me about MERN Stack
 
 
 ## 🌐 Socials:
