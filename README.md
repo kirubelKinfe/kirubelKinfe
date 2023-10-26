@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kirubel Kinfe
 # 💫 About Me:
-🎓 Computer science student at University of Gondar<br>🔭 I'm currently working on an E-learning platform for a Final Project<br> 🤝 I'm looking to collaborate on MERN Stack Projects<br>📝 I'm currently learning Mobile Development with React Native<br> 💬 Ask me about MERN Stack<br> 📬 you can reach me at kirubelkinfe01@gmail.com
+🎓 Computer science Graduate from the University of Gondar<br>🔭 Developed, Deployed, and Maintained an Online E-learning platform<br> 🤝 I'm looking to collaborate on MERN Stack Projects<br>📝 I'm currently learning Mobile Development with React Native<br> 💬 Ask me about MERN Stack<br> 📬 you can reach me at kirubelkinfe01@gmail.com
 
 
 ## 🌐 Socials:
