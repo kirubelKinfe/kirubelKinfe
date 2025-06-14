@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Kirubel Kinfe
 # 💫 About Me:
-🌍  I am a Full-Stack Developer based in Ethiopia, Addis Ababa.<br>
-🎓 Computer science Graduate from Gondar University<br> 📬 you can reach me at kirubelkinfe01@gmail.com
+Results-driven Full-Stack Software Developer with 2 years of professional experience and 4+
+years of dedicated coding practice. Specializes in building secure, scalable backend systems
+using Java, Python, Django, Spring Boot, and PostgreSQL, and delivering responsive frontend
+interfaces with React.js, Next.js, and TypeScript. Skilled in microservices, authentication systems
+(Keycloak, OAuth2), CDC pipelines (Debezium + Kafka), and DevOps tools. Passionate about
+clean architecture, async collaboration, and continuous learning.
 
 
 ## 🌐 Socials:
