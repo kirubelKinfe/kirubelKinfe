@@ -12,11 +12,13 @@ clean architecture, async collaboration, and continuous learning.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kirubel-kinfe-4698ab217/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kirubel_kinfe) 
 
 # 💻 Tech Stack:
+
 Backend & DevOps  
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-%23A30000.svg?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/spring%20security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/spring%20cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -34,6 +36,7 @@ Backend & DevOps
 ![Vault](https://img.shields.io/badge/vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white)
 
 Database & Data Systems
+
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -43,6 +46,7 @@ Database & Data Systems
 ![Kafka](https://img.shields.io/badge/kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 Frontend
+
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,6 +57,7 @@ Frontend
 ![Swagger](https://img.shields.io/badge/swagger-%23Clojure.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
 Messaging & Event-Driven Systems
+
 ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Kafka Connect](https://img.shields.io/badge/kafka%20connect-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Debezium](https://img.shields.io/badge/debezium-%23CC0000.svg?style=for-the-badge&logo=debezium&logoColor=white)
